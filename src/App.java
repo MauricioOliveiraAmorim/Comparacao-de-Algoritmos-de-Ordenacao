@@ -218,7 +218,7 @@ public class App {
 
 
 
-        System.out.println("Digite o tamanho da amostragem de valores distintos deseja : ");
+        System.out.println("Digite a quantidade de números diferentes que serão repetidos no vetor: ");
         int distintos = Teclado.nextInt();
         //Com muitos repetidos (amostragem de poucos valores distintos)
         for(int i = 0; i<K; i++){
@@ -277,6 +277,21 @@ public class App {
                 }
             }
         }
-        MatrizCSV.exportarCSV("arroz");
+        System.out.println("arquivo CSV gerado no projeto");
+        MatrizCSV.exportarCSV("Ordenação");
+
+        System.out.println("Sistema:\r\n" + //
+                        "- Sistema Operacional: Windows 11 Home\r\n" + //
+                        "- Versão do SO: 10.0.26100\r\n" + //
+                        "- Arquitetura: x64\r\n" + //
+                        "- Fabricante/Modelo: Positivo Bahia - VAIO VJFE55F11X-B0611H\r\n" + //
+                        "- Processador: Intel64 Family 6 Model 140 ~2419 MHz\r\n" + //
+                        "- Memória RAM: 16 GB\r\n" + //
+                        "\r\n" + //
+                        "Java:\r\n" + //
+                        "- JDK: OpenJDK Temurin 17.0.14 64-bit\r\n" + //
+                        "- Versão do JRE: 17.0.14\r\n" + //
+                        "- Versão do compilador (javac): 17.0.14\r\n" + //
+                        "");
     }
 }

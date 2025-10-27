@@ -1,0 +1,61 @@
+n,Distribuicao,Algoritmo,Teorico,Pratico,TempoMedio(ms),Comparacoes,Trocas
+1000,Aleatória,Merge Sort,O(n log n),O(n log n),1.092999,8713,9976
+1000,Aleatória,Heap Sort,O(n log n),O(n log n),0.598500,11726,9131
+1000,Aleatória,Quick Sort,O(n log n),O(n log n),0.993200,11826,12476
+1000,Aleatória,Merge Sort,O(n log n),O(n log n),0.145799,8708,9976
+1000,Aleatória,Heap Sort,O(n log n),O(n log n),0.181300,11667,9069
+1000,Aleatória,Quick Sort,O(n log n),O(n log n),0.142100,12533,13189
+1000,Aleatória,Merge Sort,O(n log n),O(n log n),0.131600,8687,9976
+1000,Aleatória,Heap Sort,O(n log n),O(n log n),0.161100,11640,9047
+1000,Aleatória,Quick Sort,O(n log n),O(n log n),0.115200,9896,10549
+1000,Aleatória,Merge Sort,O(n log n),O(n log n),0.123599,8665,9976
+1000,Aleatória,Heap Sort,O(n log n),O(n log n),0.166399,11795,9146
+1000,Aleatória,Quick Sort,O(n log n),O(n log n),0.112101,10692,11355
+1000,Aleatória,Merge Sort,O(n log n),O(n log n),0.147701,8723,9976
+1000,Aleatória,Heap Sort,O(n log n),O(n log n),0.130900,11677,9079
+1000,Aleatória,Quick Sort,O(n log n),O(n log n),0.126100,12034,12694
+1000,Quase ordenada,Merge Sort,O(n log n),O(n log n),0.108301,7977,9976
+1000,Quase ordenada,Heap Sort,O(n log n),O(n log n),0.118000,12674,9568
+1000,Quase ordenada,Quick Sort,O(n log n),O(n log n),0.108800,10701,11357
+1000,Quase ordenada,Merge Sort,O(n log n),O(n log n),0.227701,8020,9976
+1000,Quase ordenada,Heap Sort,O(n log n),O(n log n),0.263900,12691,9588
+1000,Quase ordenada,Quick Sort,O(n log n),O(n log n),0.137401,11162,11822
+1000,Quase ordenada,Merge Sort,O(n log n),O(n log n),0.114700,8027,9976
+1000,Quase ordenada,Heap Sort,O(n log n),O(n log n),0.138201,12722,9612
+1000,Quase ordenada,Quick Sort,O(n log n),O(n log n),0.149600,11372,12032
+1000,Quase ordenada,Merge Sort,O(n log n),O(n log n),0.175900,8060,9976
+1000,Quase ordenada,Heap Sort,O(n log n),O(n log n),0.157999,12696,9601
+1000,Quase ordenada,Quick Sort,O(n log n),O(n log n),0.191401,11524,12184
+1000,Quase ordenada,Merge Sort,O(n log n),O(n log n),0.173999,8162,9976
+1000,Quase ordenada,Heap Sort,O(n log n),O(n log n),0.158100,12747,9612
+1000,Quase ordenada,Quick Sort,O(n log n),O(n log n),0.208999,13816,14466
+1000,Reversa,Merge Sort,O(n log n),O(n log n),0.120800,4932,9976
+1000,Reversa,Heap Sort,O(n log n),O(n log n),0.110800,10340,8316
+1000,Reversa,Quick Sort,O(n log n),O(n log n),0.094999,10683,11345
+1000,Reversa,Merge Sort,O(n log n),O(n log n),0.079900,4932,9976
+1000,Reversa,Heap Sort,O(n log n),O(n log n),0.106699,10340,8316
+1000,Reversa,Quick Sort,O(n log n),O(n log n),0.100500,11272,11926
+1000,Reversa,Merge Sort,O(n log n),O(n log n),0.093300,4932,9976
+1000,Reversa,Heap Sort,O(n log n),O(n log n),0.112000,10340,8316
+1000,Reversa,Quick Sort,O(n log n),O(n log n),0.147200,10556,11232
+1000,Reversa,Merge Sort,O(n log n),O(n log n),0.110101,4932,9976
+1000,Reversa,Heap Sort,O(n log n),O(n log n),0.153000,10340,8316
+1000,Reversa,Quick Sort,O(n log n),O(n log n),0.242001,11540,12207
+1000,Reversa,Merge Sort,O(n log n),O(n log n),0.152000,4932,9976
+1000,Reversa,Heap Sort,O(n log n),O(n log n),0.150000,10340,8316
+1000,Reversa,Quick Sort,O(n log n),O(n log n),0.156200,10516,11186
+1000,Repetidos,Merge Sort,O(n log n),O(n log n),0.155300,8661,9976
+1000,Repetidos,Heap Sort,O(n log n),O(n log n),0.220400,11323,8937
+1000,Repetidos,Quick Sort,O(n log n),O(n log n),0.436401,6302,5386
+1000,Repetidos,Merge Sort,O(n log n),O(n log n),0.098400,8707,9976
+1000,Repetidos,Heap Sort,O(n log n),O(n log n),0.158200,11314,8928
+1000,Repetidos,Quick Sort,O(n log n),O(n log n),0.416301,6112,5196
+1000,Repetidos,Merge Sort,O(n log n),O(n log n),0.092300,8677,9976
+1000,Repetidos,Heap Sort,O(n log n),O(n log n),0.159199,11406,8965
+1000,Repetidos,Quick Sort,O(n log n),O(n log n),0.399301,5980,5064
+1000,Repetidos,Merge Sort,O(n log n),O(n log n),0.116800,8649,9976
+1000,Repetidos,Heap Sort,O(n log n),O(n log n),0.156001,11276,8885
+1000,Repetidos,Quick Sort,O(n log n),O(n log n),0.336001,5402,4486
+1000,Repetidos,Merge Sort,O(n log n),O(n log n),0.102001,8645,9976
+1000,Repetidos,Heap Sort,O(n log n),O(n log n),0.168500,11292,8916
+1000,Repetidos,Quick Sort,O(n log n),O(n log n),0.351200,5870,4954
